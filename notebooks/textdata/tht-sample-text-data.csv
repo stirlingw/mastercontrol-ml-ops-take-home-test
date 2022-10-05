@@ -1,0 +1,1088 @@
+﻿Id,comment,Focal_Obj,Focal_Obj_Attribute
+3545,  ECN number is incorrect (2 places). Looks like it should be M5079,Document_Info,Incorrect
+123412,"  Please add the ""R"" symbol to nCounter so it should read: nCounter(R) Vantage 3D(TM) ",Document_Text_Seg,Incomplete
+3548,  please upload the correct version,Version,Incorrect
+3549,  rejected by author,Unknown,Unknown
+3547,  Rejected by author to update responsibilities section,Document_Section,Incorrect
+3539," 	GODLEYC	15 Nov 2019 8:03 PM
+ 	Comments
+ 	Rejection Comments
+Please change red text to black.",Document_Formatting,iIncorrect
+3540," 	Rejection Comments
+1. SOP54467 is referenced in the body of the document, but (a) is not listed in the references section and (b) has been obsoleted
+2, Revision history- Add the status of the document in the Revision History table stating: A. The document is acceptable as written; OR B. Add any changes made to the Revision History table",Multi_Obj,Multi_Attribs
+3540-a,"SOP54467 is referenced in the body of the document, but (a) is not listed in the references section",Reference,Missing
+3540-b,"SOP54467 is referenced in the body of the document, but (b) has been obsoleted",Reference,Obsolete
+3540-c,Revision history- Add the status of the document in the Revision History table stating: A. The document is acceptable as written,Document_Status,Missing
+3540-d,Revision history- Add the status of the document in the Revision History table stating:  B. Add any changes made to the Revision History table,Document_Status,Incomplete
+3541," 	state: risk is appropriately mitigated vs. minimal ... in the last sentence of the conclusion",Document_Info,Incorrect
+126789," ""Customer/Laboratory manager"" signature needed on ADS form. ",Approval,Missing
+163701, : Procedure needs to be updated per VS,Document_Info,Obsolete
+41604, 0.5X TAE Buffer incorrect expiration date,Date,Incorrect
+108279, Add Scan,Document_Info,Missing
+104404,"- APHA color spec. is <= 30, according to cert. Please revise",Document_Info,Incorrect
+3567, appearance limit,Unknown,Unknown
+108885,- Attach the draft infocard for SOP30-045 revision F.,InfoCard,Missing
+104407,"- Can we replace that ""0"" with <|> ?",Document_Text_Seg,Incorrect
+2436, Can you attach a word file with the job codes that require training on this document?,Attachment,Missing
+173109,Change FSC_KPD to SRK in the draft that was emailed,Document_Text_Seg,Incorrect
+104408,"- Change PRI spec to <= 75. Likewise, replace all >|< with <=|>=",Document_Info,Incorrect
+2437, Change request initiated on DE route rather than Global route,Routing,Incorrect
+3554, Client had additional comments.,Out_of_Doc_Comment,Unknown
+73396,"- COLOR WHITE AND MATTE FINISH ARE NOT 
+  LISTED ON ART",Document_Info,Missing
+3555, Comments given to author. ,Out_of_Doc_Comment,Unknown
+95307, correct spelling:  handling,Document_Text_Seg,Incorrect
+70634, corrections in page 1,Out_of_Doc_Comment,Unknown
+104442,"- could not confirm the shelf life. shelf life log stated 2 years from DOS, according to the cert., but there is no shelf life statement on the cert.",Document_Info,Incomplete
+47089, Date for  rev 2 is wrong.  see redline,Date,Incorrect
+3556, Dev. Phase should be III,Document_Info,Incorrect
+114859,"Deviation needs to be closed, refer trackwise deviation72958 AND add attachment",Deviation,Unknown
+3558, Document edit,Unknown,Unknown
+59893,Document version number is wrong in header,Version,Incorrect
+95306, Form number to be changed,Document_Info,Incorrect
+2438," Hi Matt, can you please change the route from INS_CR to INS_CR-OEM?",Routing,Incorrect
+33435,- Hyperlinks are not allowed in MasterControl documents - section 8.1,Document_Formatting,Incorrect
+104412,I believe Sue has the summary report of this product. Can we upload that to sharepoint AND go back to this after?,Unknown,Unknown
+163705, incorrect CHT for the utensils and protocols. ,Document_Info,Incorrect
+114860,Incorrect SOP reference,Reference,Incorrect
+2440," Jenn,
+I was referring to the Infocard title, not the document file name.",Out_of_Doc_Comment,Unknown
+3559," Lab Site should be SLC, NC",Address,Incorrect
+162854,Manager misspelled. Will correct AND reupload,Document_Text_Seg,Incorrect
+114861,- MFG-053 has incorrect title in the reference section,Reference,Incorrect
+3560, Need to have lab review and update prior to sending forward for client approval.,Review,Missing
+101588, Need to remove CI,Document_Section,Unnecessary
+101589, Need to remove red lines in document separating sections,Document_Formatting,Incorrect
+3572, need to upload the latest version,Version,Incorrect
+101590, Needs to be aborted.  No longer required.,Unknown,Unknown
+2443, No redlines attached,Attachment,Missing
+3573, note,Out_of_Doc_Comment,Unknown
+162856,"On JBA, update CGBT to Sexton",Document_Text_Seg,Incorrect
+2444," On the final document, please include the Infocard number in the header next to the revision level",InfoCard,Missing
+2445, Paragraph 4 still has Instrumed with a line through it.,Document_Formatting,Incorrect
+107240," PG 24 - missing 'shipped"" on step 23 & 24 instruction before the word ""prior""",Document_Text_Seg,Missing
+162877,Please add example investigation documentation methods under the rejected product section,Document_Section,Missing
+108665, Please add File,Attachment,Missing
+73445,"- PLEASE ATTACH BARCODE VERIFICATION 
+  SCAN
+",Attachment,Missing
+162857,Please list in the instructions area rep approver(s). Currently Mik is the KPO and Mal QA.,Approval,Missing
+104422,Please obtain SDS from Croda.,Unknown,Unknown
+104423,Please remove appearance.,Document_Text_Seg,Incorrect
+104447,"- please remove no 7 and 8
+- please remove the ""75%"" from shelf life",Multi_Obj,Multi_Attribs
+104447-a,please remove no 7 and 8,Document_Info,Incorrect
+104447-b,"please remove the ""75%"" from shelf life",Document_Text_Seg,Incorrect
+104448,- please remove no. 1 and 7,Document_Info,Incorrect
+162878,Please reword footer section as discussed,Document_Info,Incorrect
+162860,- Please see Ian's comments/edits ,Out_of_Doc_Comment,Unknown
+104430,"Please see the newer SDS. the manufacturer is Evo, no longer AirP.",Document_Info,Incorrect
+162879,- refer to Ian's comments,Out_of_Doc_Comment,Unknown
+3562, Rejected by author to add reasons for revision,Unknown,Unknown
+3563, Rejected by author to update title,Title,Incorrect
+3564," Rejected due to required revision:  Page 3 references â€œLn Pharmaceuticalsâ€ when their name is â€œLuden Laboratories, Inc.",Document_Text_Seg,Incorrect
+114863,rejected-@ needs to be reviewed by approver,Approval,Missing
+162880,- rejected per author's request,Unknown,Unknown
+114849," Rejected per QCâ€™s request, so that the documentâ€™s template may be further updated",Document_Formatting,Obsolete
+58663,rejected to do further editing,Unknown,Unknown
+58664,Rejecting to fix JST referencing error in attachment,Attachment,Incorrect
+2452, Rejecting to update the notes section,Document_Section,Incorrect
+2453, Rejecting to update the notes section with revision info,Document_Section,Incorrect
+3575, spelling = dihydrate,Document_Text_Seg,Incorrect
+162865,"- Steps 3.9.9 and 3.9.16 have fill ranges as 100-106mL, not 100-107mL",Document_Text_Seg,Incorrect
+137161, The collaborators must sign in step 2 and 16,Approval,Missing
+3534,"
+
+Micro did not collaborate. Need to edit micro portion",Document_Info,Incorrect
+3535,"
+15. Appendices on page 18 does not include Appendix 2 and title.",Document_Section,Incorrect
+68049,"
+Can we please add the Quality Unit to the responsibility section?  Vendors that provide a service are approved by the Quality Unit.",Document_Section,Incomplete
+108218,"
+R2893 â€“ The patents box should be checked for yes (not no) and a link should be added.
+",Document_Info,Incomplete
+69305,"
+remove extra ""2020"" from first paragraph",Document_Text_Seg,Incorrect
+3538,"
+spelling error in 3.2 Results ""me"" should be ""met""",Document_Text_Seg,Incorrect
+159786,"
+The section 4: Definitions have only acronymâ€™s in the table. Please provide definitions for all this words. I am sending back to you to add definition for all this words
+",Document_Info,Incomplete
+95305,"
+wrong year",Date,Incorrect
+89778,!0 and 20 mg specification should be changed to +/-0.25 %.,Document_Info,Incorrect
+113836,"""**"" lab qual footnote needs to be updated",Document_Info,Obsolete
+41049,""".0"" was not added to the 2% pH as described in the listed changes.",Document_Text_Seg,Incomplete
+46531,"""08"" is missing on revision record",Document_Text_Seg,Incomplete
+99613,"""11. OVERALL SUMMARY"" section needs to be updated.",Document_Section,Incorrect
+118018,"""200mg"" was not added to the title on pages 2-4",Document_Text_Seg,Incorrect
+2459,"""360 - Incomplete/Inaccurate Print"" is listed twice",Document_Text_Seg,Duplicate
+87659,"""AAA ACTION:  Log incomplete.  Please move to the DNU Vault.
+NOTE PSI: Send all logs at site closeout""",Document_Info,Incomplete
+87660,"""AAA ACTION:  Missing exp date, the naming convention does not best reflect document.  Please update to:
+5.2.7 Credentials Ann M License Exp 01AUG""",Date,Missing
+2460,"""Absolutely  no FOD"" is not a good specification, it needs to be bounded i.e. ""when viewed with unaided eye at 18 inches in ambient lighting"".",Document_Text_Seg,Unclear
+2461,"""Absolutely no FOD"" is not a good requirement.  It needs to be bounded i.e. ""when viewed with unaided eye at 18 inches, ambient lighting"".",Document_Text_Seg,Unclear
+2465,"""accept changes and stop tracking"" in main file. Redlines are attached. Complete notes section of infocard.",InfoCard,Incomplete
+172000,"""Access Area""  from SGPA was removed. Please add to diagram. [Appendix 1]
+
+Thanks,",Document_Text_Seg,Missing
+189000,"""action"" needs to change to ""investigation""",Document_Text_Seg,Incorrect
+33364,"""Advantage"" should be capitalized in the question. Also please add the word ""scanner"" after ""iTero"" in the question.",Document_Text_Seg,Incorrect
+133812,"""AL was defined as ALD2, AM was defined as ALD2 and AH was defined as AHD2 in the data package""
+
+Correct: AM was defined as AMD2",Document_Text_Seg,Incorrect
+90385,"""Anne to make corrections"" - Eric",Out_of_Doc_Comment,Unknown
+108882,"""ARTE, INC DOES NOT PROVIDE MEDICAL ADVICE.""  should be changed to ""LEM DOES NOT PROVIDE MEDICAL ADVICE.""",Document_Text_Seg,Incorrect
+91395,"""attach behind ITR""' is a flight packet reference",Document_Text_Seg,Unknown
+138249,"""b"" present in dissolution spec doesn't seem to reference anything",Document_Text_Seg,Missing
+40656,"""C"" in ""Coli"" should be lower case.
+Italicize Salmonella and E. coli.",Document_Text_Seg,Incorrect
+91940,"""Can you reject that one for now. I need to do a new PS for CON084 and new info card to separate those two."" Rejected at DA per Tam.",InfoCard,Incorrect
+56436,"""Cleanliness"" section refers to ""roll"". Product is preformed pouch, not roll.",Document_Text_Seg,Incorrect
+73375,"""COPIES TO"" - PLEASE CHANGE VENDOR NAME ",Document_Text_Seg,Incorrect
+113311,"""created by"" field is blank.  I can fix this for you...",Document_Info,Incomplete
+84948,"""CYT Item #"" needs to be changed to 50621-01.",Document_Text_Seg,Incorrect
+41608,"""Date Performed by"" field is blank at the top of the  report",Date,Missing
+70344,"""Date"" field is missing from memo.",Date,Missing
+138238,"""DE/AT"" need to changed to ""Germany/Austria""  to  match what is on spec. The characters are limited in JDE so the country codes names were utilized to help aid in the description.",Document_Text_Seg,Incorrect
+123027,"""Description"" on page 3 should be deleted.  It should only appear on page 2.",Document_Text_Seg,Unnecessary
+70345,"""Device testing"" is too broad. Samples are being used for PFS for OBI functional testing. ",Document_Text_Seg,Unclear
+173091,"""DR1-2.pptx"" not attached to PEER infocard. It is referenced in PEER.",Attachment,Missing
+188999,"""Draft"" Watermark needs to be removed.  Will re-route once corrrected",Document_Formatting,Incorrect
+3582,"""E"" doc - switch steps f and g and add in the 100% inspections and the step for re-caluclating the weightlimits.  Re-review the redline Shelley sent (the word document of ""E"").",Document_Info,Incorrect
+47097,"""EDH-QC-079; 44-45"" in Section 2.0 is wrong",Document_Text_Seg,Incorrect
+47098,"""Error!  Ref source not found""
+Fix this in steps 7.1.6, 9.1.8, & 9.5.1
+
+Fix step 7.2 formatting",Reference,Missing
+31159,"""executed missing in title""",Title,Incorrect
+73376,"""FINISH"" DOES NOT MATCH",Document_Info,Unclear
+118019,"""Go/No Go"" should be written like this throughout the procedure.  This procedure has been provided to GSK and will possibly draw comments we would want address",Document_Text_Seg,Incorrect
+172001,"""G Lab"" needs to be included to the name.  In the ""OBJECTIVE"" section, please replace ""...solution systems at Stallergenes Greer STAGR"" with ""...solution systems at Stallergenes Greer (STAGR; G Lab)""",Document_Text_Seg,Incorrect
+172002,"""G Lab"" needs to be included to the name. In the ""OBJECTIVE"" section, please replace ""...solution systems at Stallergenes Greer (STAGR)"" with ""...solution systems at Stallergenes Greer (STAGR; G Lab)""",Document_Text_Seg,Incorrect
+172003,"""G Lab, Inc."" needs to remain, as regulatory agencies only recognize us by this name.",Document_Text_Seg,Unknown
+123413,"""Hs"" needs to be deleted off of the labelling for LBL-10156 for Human AD.",Document_Text_Seg,Incorrect
+69306,"""IN"" style part number, IN1544, setup to replace GY-0005, â€œ8mm Pituitary Rongeurâ€.",Document_Text_Seg,Incorrect
+181863,"""Instruction"" dalyje reikÄ—tÅ³ Ä¯raÅ¡yti, kad keitimas suderintas su padalinio vadovu.",Unknown,Unknown
+181869,"""Instructions"" dalye turi bÅ«ti nurodyta, kad keitimas suderintas su padalinio vadovu.",Unknown,Unknown
+181885,"""Instructions"" dalyje turÄ—tÅ³ bÅ«ti nurodyta, kad keitimas yra suderintas su padalinio vadovu.",Unknown,Unknown
+181886,"""Instructions"" dalyje turÄ—tÅ³ bÅ«ti paraÅ¡yta, kad keitimas suderintas su padalinio vadovu.",Unknown,Unknown
+181872,"""Instructions"" dalyje turi bÅ«ti paminÄ—ta, kad Å¡is keitimas yra suderintas su padalio vadovu.",Unknown,Unknown
+91941,"""Instructions"" sections does not include ""Peer Review, Department Approver, QA Approver, etc."" listed",Document_Section,Incomplete
+69310,"""instruments"" misspelled at bottom of sheet.
+
+remove space before CAS02693 in excel format.",Document_Text_Seg,Incorrect
+181887,"""Instuction"" dalyje turi bÅ«ti nurodyta, kad keitimas suderintas su padalinio vadovu.",Unknown,Unknown
+33367,"""invis is"" is always lower case",Document_Text_Seg,Incorrect
+33368,"""invis is"" must always be lowercase",Document_Text_Seg,Incorrect
+100695,"""Issued by"" incomplete",Document_Info,Incomplete
+131919,"""log in"" should be one word (login), in a few places",Document_Text_Seg,Incorrect
+180101,"""Machinery"" misspelled in section 3. Once corrected, please upload so that QA may approve. Thanks for addressing all my comments Matt!",Document_Text_Seg,Incorrect
+33365,"""Master File review and approval should be document owner instead of ICR""",Approval,Incorrect
+31160,"""masterflex 77602-10 pump head"" - remove extra zero at end",Document_Text_Seg,Incorrect
+33366,"""Mix. Match. Stick. Repeat!"" needs to be removed.",Document_Text_Seg,Incorrect
+155517,"""MKT00079"" in the Notes of the InfoCard and in the revision log of the document should be changed to ""MKT00074"".",Document_Text_Seg,Incorrect
+47105,"""moniter"" should be ""monitor""
+Also the lot number should be ""-S39"" instead of "".S39""",Document_Text_Seg,Incorrect
+2462,"""NO gaps or clumps"" does not allow a tolerance.  Please include a tolerance i.e. ""NO gaps or clumps larger than XXX inches when viewed with the unaided eye at 18 inches""",Document_Text_Seg,Incorrect
+173098,"""No PR found in WC. Please reference OP-70 Rev AA (Section V, Page 95 & 96). Questions?Â Â Contact WHelp@s.com 
+""
+521205070001 update the lifecycle to preproction 4-step",Document_Info,Incorrect
+173099,"""No PR found in WC. Please reference OP-70 Rev AA (Section V, Page 95 & 96). Questions?Â Â Contact WHelp@s.com 
+""
+Use the most current template for the ES",Document_Info,Incorrect
+131918,"""Ok or not OK is not an acceptable answer for the selective media. Update the qc bench sheets to state for selective media growth or no growth.",Document_Text_Seg,Incorrect
+131321,"""operations"" should have been capitalized where is part of formal title.",Document_Text_Seg,Incorrect
+58661,"""Original Release"" and ""Retest"" boxes both checked and duplicated.",Document_Text_Seg,Duplicate
+69307,"""OUS"" should be added to each inspection header, currently only indicated in the name on the pre-coating inspection",Document_Text_Seg,Missing
+162836,"""Passive Freezing"" in middle of 1.3 should be next section",Document_Section,Incorrect
+59584,"""Perform other duties as assigned."" bullet is in the qualifications section, instead of the key responsibilities section.",Document_Section,Incorrect
+118020,"""Placeholder"" was not removed from collaboration and would have shown up on manifest.",Document_Text_Seg,Obsolete
+173100,"""Please update the REV on the Revisions tab in cell B1 on the DHF form to match the infocard.
+""
+",Version ,Incorrect
+181888,"""Power supply"" URS ruoÅ¡ti nereikia.",Unknown,Unknown
+91396,"""pro"" needs changed to ""order""",Document_Text_Seg,Incorrect
+91397,"""pro"" needs changed to ""order"" for document consistency",Document_Text_Seg,Incorrect
+91398,"""pro"" needs replaced with ""order"" for document consistency",Document_Text_Seg,Incorrect
+91399,"""pro"" needs updated to ""order"" for consistency with other docs",Document_Text_Seg,Incorrect
+86871,"""Product development lab"" needs to be corrected to ""process development lab""",Document_Text_Seg,Incorrect
+33371,"""proposed change"" and ""reason for change"" need to be clarified.",Document_Text_Seg,Incorrect
+91943,"""PS-204 has new EXP for all waters, 1 year from receipt per CAM-CPA-190058. (PS is still routing through MC). Rejecting so exp can be updated to reflect CAM-CPA-190058 set exp."" Rejected",Date,Incorrect
+46330,"""Purchase"" must be replaced with ""Purchasing""",Document_Text_Seg,Incorrect
+91944,"""QA Approver"" not provided.",Approval,Missing
+91945,"""QA Approver"" was not provided.",Approval,Missing
+3605,"""r"" in ""Parameter"" is on the next line in Table 7.",Document_Text_Seg,Incorrect
+69308,"""RA"" and ""Validation"" task tabs needs updating as agreed on prior CNs.
+Need to be consistent with drawing conventions established. JP provided red lines.",Document_Section,Incorrect
+91946,"""Room Temperature"" is not defined and needs to be replaced with ""Ambient Temperature.""",Document_Text_Seg,Incorrect
+133814,"""S-200521-00046"" for testing of the 40 deg C temp pull should be added to title for searching/traceability purposes.",Document_Text_Seg,Incomplete
+106185,"""SDS data sheets""  spell out the abbreviation with the acronym",Document_Text_Seg,Unclear
+31155,"""Sequencing inspection"" no longer required",Document_Section,Unnecessary
+173101,"""Should this part number be identified as ""salable"" in JDE?"" needs to be checked off for p/n 521200380950, 521200380951 and 521200380952.",Document_Text_Seg,Incorrect
+31156,"""Signatures and Review"" block on each page need to be consistent with other SOPs.  See Emily.",Approval,Incorrect
+69309,"""STALIF C INSTRUMENT TRAY"", CAS01072, missing from BOM",Document_Text_Seg,Missing
+113837,"""Summary"" has wrong spelling in title, needs updating",Document_Text_Seg,Incorrect
+47099,"""The decreased number of accumulated scans 
+does not produce a spectrum with accurate absorption signals and the original analysis will not be reported."" Please remove this statement.",Document_Info,Unnecessary
+3608,"""the short term report pagination should mimic the long term pagination â€“ i.e. include the cover and the TOC as pages so they each consist of 8 pages.""  Needed today.",Document_Formatting,Missing
+3609,"""the short term report pagination should mimic the long term pagination â€“ i.e. include the cover and the TOC as pages so they each consist of 8 pages.""  Needed today. ",Document_Formatting,Missing
+3589,"""Theory"" section was removed, but the change was not listed in the revision history.",Document_Info,Missing
+47104,"""To analyze a QPX7831 sample...""",Unknown,Unknown
+181890,"""Training"" is not translated to German",Document_Text_Seg,Incorrect
+189810,"""UV"" has to be removed from cure process.  Leave it as ""Cured Exterior Finish"".",Document_Text_Seg,Incorrect
+2463,"""Yes"" is selected for Calibration in the custom fields.",Document_Info,Incorrect
+2464,"""Yes"" is selected for Calibration in the custom fields. ",Document_Info,Incorrect
+3612,"""zip code"" of address is mixed up. One question on Water content value",Address,Incorrect
+116790,# 14 has both yes and no,Document_Info,Incorrect
+106186,"# 7 add 4867 before laboratory
+Please clarify the last statement regarding the delivering department - it is not clear to me who is responsible for notifying the physician.",Document_Info,unclear
+55156,"# in word doc says ""LB096""",Document_Text_Seg,Incorrect
+104402,# of equipment past due calibration should be 0,Document_Info,Incorrect
+121913,"# tank liners used step box for item 000380 is checked and should not be.
+Calculate weight of NaOH needed step units are Kg L should just be Kg",Multi_Obj,Multi_Attribs
+86238,"#10 in the ""Assembly Instructions"" still has the SKU as 33601007947 instead of 3360010513",Document_Text_Seg,Incorrect
+132785,#10 under Lincoln 15:30-08:00 is a duplicate of #9,Document_Info,Duplicate
+3615,"#17 should be <1cfu/strip, the < is missing",Document_Info,Missing
+46532,#45 missing,Document_Info,Incorrect
+117833,"#5 - Second Bulletin ""Write the total load count in the corner with chalk/pencil"" - Make optional as this is not a requirement",Document_Info,Incorrect
+46533,#68 missing; CC# in change history incorrect,Document_Info,Incorrect
+189811,#7 degrees,Document_Info,Unknown
+189812,#7 mentions incorrect number of cases per layer,Document_Info,Incorrect
+2466,#7 not marked,Document_Formatting,Missing
+100166,"#7600050: delete Note 7. #7600053: Notes 4&5 s/b ""printed "" in black. #7600053 & 7600054; Note 9 ""PRINT"" s/b ""PRODUCE"". All DWGs should strike through the tolerance block.",Multi_Obj,Multi_Attribs
+100166-a,#7600050: delete Note 7.,Document_Info,Unnecessary
+100166-b,"#7600053: Notes 4&5 s/b ""printed "" in black.",Document_Formatting,Incorrect
+100166-c,"#7600053 & 7600054; Note 9 ""PRINT"" s/b ""PRODUCE"". All DWGs should strike through the tolerance block.",Document_Formatting,Incorrect
+100696,% increase from using incorrect plug would be over 100% in both cases.,Document_Info,Incorrect
+90386,% of formulation table is >100%.  Please update to = 100%.,Document_Info,Incorrect
+82376,"% Solids incorrect, should be around 24%.",Document_Info,Incorrect
+3618,%match for 092021-0165 is incorrect,Document_Info,Incorrect
+3619,() in custom,Unknown,Unknown
+3620,() in custom ,Unknown,Unknown
+3621,"(1) Define ""sample type""
+(2) Change to 3 alerts out of 5, in definition and above the limits responses sections",Multi_Obj,Multi_Attribs
+3621-a,"(1) Define ""sample type""",Document_Info,Unclear
+3621-b,"(2) Change to 3 alerts out of 5, in definition and above the limits responses sections",Document_Info,Incorrect
+3622,"(1) Define ""sample type""
+(2) Change to 3 alerts out of 5, in definition and above the limits responses sections
+",Multi_Obj,Multi_Attribs
+3622-a,"(1) Define ""sample type""",Document_Info,Unclear
+3622-b,"(2) Change to 3 alerts out of 5, in definition and above the limits responses sections
+",Document_Info,Incorrect
+173104,"(1) EU MDR release year is wrong. It states 2016 instead of 2017. 
+
+(2) 1b- change ""...to not..."" should be ""...do not..."". 
+
+(3) Reference all comment/corrections in email.",Multi_Obj,Multi_Attribs
+173104-a,"(1) EU MDR release year is wrong. It states 2016 instead of 2017. 
+",Date,Incorrect
+173104-b,"(2) 1b- change ""...to not..."" should be ""...do not..."". ",Document_Text_Seg,Incorrect
+173104-c,(3) Reference all comment/corrections in email.,Reference,Incomplete
+162837,"(1) Need to add FRM number to Section 1.4.1.1.1 and 1.4.1.2.5
+(2) Need to add power supply to BOM for the formulation module (Section 2B)",Multi_Obj,Multi_Attribs
+162837-a,(1) Need to add FRM number to Section 1.4.1.1.1 and 1.4.1.2.5,Document_Info,Missing
+162837-b,(2) Need to add power supply to BOM for the formulation module (Section 2B),Document_Info,Missing
+54616,"(1) Numbering discrepancies in tables of RSK-0001
+(2) Numbering discrepancy in text portion, Section 8.2.3 and 8.3.3 of RSK-0001 and 8.2.4 and 8.3.2 of RSK-0008",Multi_Obj,Multi_Attribs
+54616-a,(1) Numbering discrepancies in tables of RSK-0001,Document_Info,Incorrect
+54616-b,"(2) Numbering discrepancy in text portion, Section 8.2.3 and 8.3.3 of RSK-0001 and 8.2.4 and 8.3.2 of RSK-0008",Document_Info,Incorrect
+54617,(1) Risk 24 has incorrect failure mode (copy paste error) (2) 72 & 84 redundant: combine?  (3) Title and document number on header (4) PDP visual inspection risks?,Multi_Obj,Multi_Attribs
+54617-a,(1) Risk 24 has incorrect failure mode (copy paste error),Document_Info,Incorrect
+54617-b,(2) 72 & 84 redundant: combine?,Document_Info,Unnecessary
+54617-c,(3) Title and document number on header,Document_Formatting,Incorrect
+54617-d,(4) PDP visual inspection risks?,Unknown,Unknown
+138250,"(2)	If shipping to Canada, use Courier on WC acct #100. EXCEPTION: SHIPMENTS TO SITE 31-003 (Loc) MUST DISPATCH VIA FEDEX PRIORITY.",Address,Incorrect
+3639,(660) should be <660> three places,Document_Text_Seg,Incorrect
+47106,"(Again) All three QAL-21-0708, QAL-21-0709, and QAL-21-0733 have not been launched (and not been approved) in MasterControl.",Document_Info,Missing
+53765,(diazepam) missing from headers and body of all documents. PZ,Document_Info,Missing
+84949,"(only combine records on the same DCR 
+that the custom fields will be applicable for), 
+",Document_Info,Incorrect
+76055,(p) please add to feasibility documentation. TMF-05-11677,Document_Info,Incomplete
+76056,(p) please add to feasibility documentation. TMF-05-11677 ,Document_Info,Incomplete
+172004,"* Add verbiage in Executive Summary as to why Garb Fatigue and Component Hold Time were not challenged.
+
+* Remove Garb Fatigue from Results table in Section 3.2",Multi_Obj,Multi_Attribs
+172004-a,* Add verbiage in Executive Summary as to why Garb Fatigue and Component Hold Time were not challenged.,Document_Info,Incomplete
+172004-b,* Remove Garb Fatigue from Results table in Section 3.2,Document_Info,Unnecessary
+172005,"* Add verbiage in Executive Summary as to why Garb Fatigue was not challenged.
+
+*Remove Garb Fatigue from Summary table in Section 3.2",Multi_Obj,Multi_Attribs
+17200b-a,* Add verbiage in Executive Summary as to why Garb Fatigue and Component Hold Time were not challenged.,Document_Info,Incomplete
+17200b-b,* Remove Garb Fatigue from Results table in Section 3.2,Document_Info,Unnecessary
+82378,"* Cell with Production issue- yes and no should be on same line.
+*Cell between Production Issue and Design Validation - Text should be Design something (Not sure)",Multi_Obj,Multi_Attribs
+82378-a,* Cell with Production issue- yes and no should be on same line.,Document_Formatting,Incorrect
+82378-b,*Cell between Production Issue and Design Validation - Text should be Design something (Not sure),Document_Info,Incorrect
+172007,"* Fix ""um"" in Section 3.2
+
+* Change the font for the vialing quantity parameters info (what you added) to Times New Roman",Multi_Obj,Multi_Attribs
+172007-a,"* Fix ""um"" in Section 3.2",Document_Text_Seg,Incorrect
+172007-b,* Change the font for the vialing quantity parameters info (what you added) to Times New Roman,Document_Formatting,Incorrect
+172010,"* Revise Section 6.3 subsection numbering format to align with the specifications of SOP-QA-0054 - Standard Operating Procedure (SOP) Format and Content
+
+*Remove Section 7 - Attachments",Multi_Obj,Multi_Attribs
+172010-a,* Revise Section 6.3 subsection numbering format to align with the specifications of SOP-QA-0054 - Standard Operating Procedure (SOP) Format and Content,Document_Formatting,Incorrect
+172010-b,*Remove Section 7 - Attachments,Attachment,Unnecessary
+172013,"* SOP-VAL-0073 Attachment I -  Need to complete all Validation checkboxes
+
+*SOP-LAB-0166 Attachment I -  Non-Viable Particulate Monitoring cot correctly N/A'd; also, no initials documented, only a date",Multi_Obj,Multi_Attribs
+172013-a,* SOP-VAL-0073 Attachment I -  Need to complete all Validation checkboxes,Attachment,Incomplete
+172013-b,"*SOP-LAB-0166 Attachment I -  Non-Viable Particulate Monitoring cot correctly N/A'd; also, no initials documented, only a date",Attachment,Incorrect
+99987,**Does contain milk per label**,Unknown,Unknown
+84950,**Please complete the custom fields and re-launch so it comes back to Doc. Control. ,Document_Info,Incomplete
+47107,"*area count
+*eventually shutdown
+pressure *fluctuation remove wildly",Unknown,Unknown
+114854,*did not write reason for obsoleting in details icon,Document_Info,Incomplete
+138253,*Infocard already exists. No need to create new infocard,InfoCard,Duplicate
+114855,"*last glucose addition in Appendix 12.3 reads density of 1.0082, should be 1.082",Document_Info,Incorrect
+100167,"*Missing MOP 70290-03
+*Both drawings should show the previous 
+  revisions on the upper revision block",Multi_Obj,Multi_Attribs
+100167-a,*Missing MOP 70290-03,Document_Info,Missing
+100167-b,"*Both drawings should show the previous 
+  revisions on the upper revision block",Document_Info,Incorrect
+114856,*name is showing up twice in the specification. ,Document_Info,Duplicate
+171791,*Need to use MasterControl template,Document_Formatting,Incorrect
+56438,*needs correction to screenshot,Document_Info,Incorrect
+86872,*New Updates released on (2/3/2020),Date,Incorrect
+114853,*No QC approver. ,Approval,Missing
+86873,*Noted error on page after sign-off.  Rejected to correct.,Out_of_Doc_Comment,Unknown
+86874,*Noted error on page after sign-off.  Rejected to correct. ,Out_of_Doc_Comment,Unknown
+41609,*OQ needs acceptance criteria clearly stated.,Document_Info,Unclear
+41610,"Can you also include visual inspection of vials after filling?
+
+",Document_Info,Missing
+56437,*Rejecting to allow collaboration w/ innovations,Unknown,Unknown
+173105,*Remove Innovation Summit from scope of Accounts.,Document_Info,Unnecessary
+86875,*Requires update (new release on 2/3/2020),Document_Info,Obsolete
+99208,", the proposed change and the reason for change cannot be the same .",Document_Info,Incorrect
+160235,". There is a single parenthesis in the following sentence which should be deleted:
+
+â€œServed as Lead Clinical Data Manager for (three studies, including:â€",Document_Formatting,Incorrect
+2471,.119 holes with .500 depth should be two separate inspection features instead of just one,Document_Formatting,Incorrect
+180104,.pdf not showing up - need to resubmit,Attachment,Missing
+82381,.xls file is empty,Attachment,Incomplete
+82382,".xlsx still had macro in file from sharepoint, emailing you an updated file to use",Attachment,Incorrect
+82383,.xlsx still has SP macros in file.  I will remove and resubmit,Attachment,Incorrect
+138484,?? in fist procedural section,Document_Info,Incorrect
+99615,"K, WI-0028 is missing macro and title field in header. WI-0029 needs title field in header. Also, please change subtype from facilities to InventoryManagement. Thank you",Multi_Obj,Multi_Attribs
+99615-a,"K, WI-0028 is missing macro and title field in header. WI-0029 needs title field in header.",Document_Info,Incorrect
+99615-b,"Also, please change subtype from facilities to InventoryManagement. Thank you",Document_Text_Seg,Incorrect
+181932,@Marketing: Please don't choose to remove these infocards from the website yet as these will be taken off once NOM July 2021 is launched.,Unknown,Unknown
+91995,@Tam...can you update the UOM's in the packet?  Then you can push back into dept approval,Document_Info,Obsolete
+163255,[RQ-25] on page 6 should be [RQ-26],Document_Text_Seg,Incorrect
+91061,] weghalen in sub titel,Unknown,Unknown
+57820,"â€œCheck the RSC Used in productionâ€ not ""Check the bottle...""
+
+also recommend adding that 60000804 is a run out",Document_Text_Seg,Incorrect
+114841,â€œSample method I resultsâ€ at the bottom of page 4 should be on page 5,Document_Formatting,Incorrect
+189813,number of colours = 4,Document_Info,Incorrect
+58662,+/- should be replaced with a weight ranges and weigh X g of powder is ambiguous for reagent preparations,Document_Info,Incorrect
+82379,+/- tolerance should be 0.001159,Document_Info,Incorrect
+4055,<2000> should be >2000,Document_Text_Seg,Incorrect
+60095,<study name> in design doc,Unknown,Unknown
+60094,"<Study Name> needs filling out
+Remove <list out command sets â€“ NA if none>",Multi_Obj,Multi_Attribs
+60094-a ,<Study Name> needs filling out,Document_Info,Incomplete
+60094-b,Remove <list out command sets â€“ NA if none>,Document_Text_Seg,Unnecessary
+40582,Â© 2021 ABC Technology - please correct,Document_Text_Seg,Incorrect
+173077-a,"  Section 7.3 - Change ""EQ079"" to ""SOP-FAC-0005""
+",Document_Text_Seg,Incorrect
+173077-b,"  Section 8.4 - Change ""QCG032"" to ""SOP-LAB-0099""
+",Document_Text_Seg,Incorrect
+173077-c,"  Section 8.5 - Change ""EQ079"" to ""SOP-FAC-0005""",Document_Text_Seg,Incorrect
+113128,â€¢ Add effective date to revision F for revision history.,Date,Missing
+181389,"â€¢ Use >600 EU/mL as acceptance criteria then put â‘  next to it
+â€¢ Comment on the comment section",Multi_Obj,Multi_Attribs
+181389-a," Use >600 EU/mL as acceptance criteria then put â‘  next to it
+",Document_Info,Incorrect
+181389-b, Comment on the comment section,Out_of_Doc_Comment,Unknown
+116789,"â€¢	â€œReview ofâ€ states â€œThermo Electron -80Â°C freezerâ€ but doesnâ€™t refer to FR-016 (as the others typically do)
+â€¢	Logbooks â€“ states â€œissued:â€ but has no date.  ",Multi_Obj,Multi_Attribs
+116789-a,"	â€œReview ofâ€ states â€œThermo Electron -80Â°C freezerâ€ but doesnâ€™t refer to FR-016 (as the others typically do)
+",Reference,Missing
+116789-b,"	Logbooks â€“ states â€œissued:â€ but has no date.  ",Date,Missing
+45047,"â€¢	AB14156-01000 is a CLIA Grade item. Change label part number
+â€¢	CU01760-04000 needs exp date of 5 years (60months) â€“ see original label",Multi_Obj,Multi_Attribs
+45047-a,"	AB14156-01000 is a CLIA Grade item. Change label part number
+",Document_Info,Incorrect
+45047-b,"	CU01760-04000 needs exp date of 5 years (60months) â€“ see original label",Date,Incorrect
+136609,"â€¢	CC-20-0031 is closed/completed so not a valid reference. 
+â€¢	No CC reference in Rev History.
+â€¢	Weak response to address the problem.  Can we at least make this a separate step",Multi_Obj,Multi_Attribs
+136609-a,"	CC-20-0031 is closed/completed so not a valid reference. 
+",Reference,Obsolete
+136609-b,"	No CC reference in Rev History.
+",Reference,Missing
+136609-c,"	Weak response to address the problem.  Can we at least make this a separate step",Document_Info,Incorrect
+86236,"â€¢	correct typo section 5.4.1: change ""sights"" to sites 
+â€¢	section 5.5.3: recommend changing to ""Training Videos are posted by the administrator on Gaga Connect""",Multi_Obj,Multi_Attribs
+86236-a,"	correct typo section 5.4.1: change ""sights"" to sites 
+",Document_Text_Seg,Incorrect
+86236-b,"	section 5.5.3: recommend changing to ""Training Videos are posted by the administrator on Gaga Connect""",Document_Text_Seg,Incorrect
+31105,"â€¢	Dante and Pere loading patterns are switched
+â€¢	Include slot designations for each shelf on all loading configurations (currently only on one of the three cycles added)",Multi_Obj,Multi_Attribs
+31105-a,"	Dante and Peren loading patterns are switched
+",Document_Info,Incorrect
+31105-b,"	Include slot designations for each shelf on all loading configurations (currently only on one of the three cycles added)",Document_Info,Missing
+184076,"â€¢	If no training is required for the plan, change workflow to No Trn
+â€¢	Fill out Custom Fields. 
+â€¢	In Regulatory Assessment, does this impact a productâ€™s registration?",Multi_Obj,Multi_Attribs
+184076-a,"	If no training is required for the plan, change workflow to No Trn
+",Document_Info,Incorrect
+184076-b,"	Fill out Custom Fields. 
+",Document_Info,Incomplete
+184076-c,"	In Regulatory Assessment, does this impact a productâ€™s registration?",Unknown,Unknown
+31109,"â€¢	Missing table header for Grade A NVP
+â€¢	On aseptic connections plates line, black out boxes for body plates",Multi_Obj,Multi_Attribs
+31109-a,"	Missing table header for Grade A NVP
+",Document_Formatting,Missing
+31109-b,"	On aseptic connections plates line, black out boxes for body plates",Document_Formatting,Incorrect
+40621,"â€¢	MKT-0005604 Rev A Deck, Lunch & Learn TM Guide, ES.pptx rejected to apply changes on: update number of smile (9) and apply on slide 9 ""fiables"" instead of ""confiables""",Multi_Obj,Multi_Attribs
+136505,"â€¢	No headers on pages 2-9
+â€¢	Footers are not correct for page numbering
+â€¢	Table of contents is in blue text
+â€¢	Title Page is for ADM Facility (need to add â€œExpansionâ€ before facility
+â€¢	Multiple fonts/sizes are used.
+",Multi_Obj,Multi_Attribs
+136505-a,"	No headers on pages 2-9
+",Document_Formatting,Missing
+136505-b,"	Footers are not correct for page numbering
+",Document_Formatting,Incorrect
+136505-c,"	Table of contents is in blue text
+",Document_Formatting,Incorrect
+136505-d,"	Title Page is for ADM Facility (need to add â€œExpansionâ€ before facility
+",Document_Text_Seg,Incomplete
+136505-e,"	Multiple fonts/sizes are used.
+",Document_Formatting,Incorrect
+31114,"â€¢	Please accept all/ turn off track changes
+â€¢	Add justification for the increase in rinse volume",Multi_Obj,Multi_Attribs
+31114-a,"	Please accept all/ turn off track changes
+",Document_Formatting,Incorrect
+31114-b,"	Add justification for the increase in rinse volume",Document_Info,Missing
+31118,"â€¢	Please attach example CofC, Certificate of Irradiation, BSE/TSE statement
+â€¢	Section II.C: should also include certificate of irradiation as enclosed documentation
+â€¢	Embed engineering drawing as an exhibit",Multi_Obj,Multi_Attribs
+31118-a,"	Please attach example CofC, Certificate of Irradiation, BSE/TSE statement
+",Attachment,Missing
+31118-b,"	Section II.C: should also include certificate of irradiation as enclosed documentation
+",Attachment,Missing
+31118-c,"	Embed engineering drawing as an exhibit",Document_Formatting,Incorrect
+58231,"â€¢	Section 4 needs a line between VAL-0005 and POL References
+â€¢	Steps 119 and 120 need an â€œeâ€ before â€œ-signatureâ€",Multi_Obj,Multi_Attribs
+58231-a,"	Section 4 needs a line between VAL-0005 and POL References
+",Document_Formatting,Missing
+58231-b,"	Steps 119 and 120 need an â€œeâ€ before â€œ-signatureâ€",Document_Formatting,Incorrect
+31130,"â€¢	The product code in the specification (6340-08) does not match the attached certificate (1S22-CX)
+â€¢	Section I.A. typo of product description (Sy vs. Sylvyde)
+â€¢	Specification missing expiry info (provided by manufacturer)",Multi_Obj,Multi_Attribs
+31130-a,"	The product code in the specification (6340-08) does not match the attached certificate (1S22-CX)
+",Document_Info,Incorrect
+31130-b,"	Section I.A. typo of product description (Sy vs. Sylvyde)
+",Document_Text_Seg,Incorrect
+31130-c,"	Specification missing expiry info (provided by manufacturer)",Document_Info,Missing
+123404,"â€¢	WI-0365: The Revision History reads that document references were updated to new infocard numbers in section 3.1 only. Change this so it reads that this change was made to all sections.",Document_Info,Incorrect
+33578,0 defects out of 332 units in attachment IV.,Attachment,Incorrect
+133832,"0 for Retraining days, needs to be blank or a number",Document_Info,Incorrect
+104019,"0.0363"" should not be the permanent change.",Document_Info,Incorrect
+41622,0.5X TAE Buffer incorrect expiration date,Date,Incorrect
+100927,00 revision collab aborted but not deleted. InfoCard will be deleted and document resubmitted with a new MP.,Document_Info,Incorrect
+69313,"00 zeros needed on page 3, 4",Document_Info,Incorrect
+31166,"0018 - pDF version, step 7.5 carries over to page 12. Please fix to where it is only on Page 11.",Document_Formatting,Incorrect
+173128,0018 infocard number is incorrect. Missing a zero.,InfoCard,Incorrect
+41052,0019 spreadsheet needs to be converted from lb to kg.,Document_Info,Incorrect
+66987,"00207: not in minutes
+00308: 2.10 should be CTQ.  Ral's opinion that diameter symbol should be duplicated in dual dimensions",Multi_Obj,Multi_Attribs
+66987-a,"00207: not in minutes",Document_Info,Incorrect
+66987-b,00308: 2.10 should be CTQ.  Ral's opinion that diameter symbol should be duplicated in dual dimensions,Document_Info,Incomplete
+162911,"0022 and 0025 need ""Specified"" corrected at the top of the page as well as Bebossed changed to Debossed. ",Document_Text_Seg,Incorrect
+46535,"0022 sf Rowa sublot:  include discard volume for spl prep.
+0066 Rowa Mesalamine CU correct typo of 30 times to 10 times for spl prep.",Multi_Obj,Multi_Attribs
+46535-a,"0022 sf Rowasa sublot:  include discard volume for spl prep.",Document_Info,Incomplete
+46535-b,0066 Rowasa Mesalamine CU correct typo of 30 times to 10 times for spl prep.,Document_Text_Seg,Incorrect
+162912,"0024 references Fax on the first within our company info. 
+All others look good.",Unknown,Unknown
+66988,"0032 - needs cutout for clearance around power entry cord retention screw
+0033 - needs to include Revision of base part (not just P/N)",Multi_Obj,Multi_Attribs
+66988-a,"0032 - needs cutout for clearance around power entry cord retention screw",Document_Info,Incorrect
+66988-b,0033 - needs to include Revision of base part (not just P/N),Document_Info,Incorrect
+173130,"0054-401-001 update the naming of the main file per OP-70 to include the version
+UL approver shall be added (c.c was added as a placeholder)",Multi_Obj,Multi_Attribs
+3759,0083 should be TrueBac not MicroSeq,Document_Info,Incorrect
+95311,008-A was put into the parent document.,Document_Info,Incorrect
+55158,-01 missing in first paragraph,Document_Text_Seg,Missing
+89831,-011 vs -012,Document_Text_Seg,Incorrect
+90095,012 has an attachment that is unrelated & has no link(s),Attachment,Unnecessary
+173131,012 print needs callouts corrected,Document_Info,Incorrect
+162913,"0190: update req form?
+0356: 5.1, email or portal? Not fax",Multi_Obj,Multi_Attribs
+162913-a,"0190: update req form?",Document_Info,Obsolete
+162913-b,"0356: 5.1, email or portal? Not fax",Document_Info,Incorrect
+46536,03.102 is no longer required as equipment is currently in the process of being decommissioned.,Document_Info,Unnecessary
+162914,"0367: 3.1- remove ""sample text"" from end of line.",Document_Text_Seg,Incorrect
+59514,"04, 05 and 06 in the custom fields is not correct, see DCC-3005. The change request is not clear please include some redlines. Thanks LJP",Document_Info,Unclear
+137163,04.1765 is the SOP number for Building Security,Document_Info,Incorrect
+189815,04-00019 has not been verified using the CoA. A follow up of the parameters may be necessary once WD-40 Company receive more information.,Document_Info,Missing
+3506,"04104 does not exist at this time, my understanding is 02652 may be used instead?",Document_Info,Incorrect
+132787,-0457 Please indicate that this is a PEG screen,Document_Info,Incomplete
+90094,-06 sheet needs line item 5 updated for description callout.,Document_Info,Obsolete
+3764,"06152021 lot number should be labeled port 8 on the results side
+06142021 has sample port 8 recorded and it is missing port 11.",Multi_Obj,Multi_Attribs
+3764-a,"06152021 lot number should be labeled port 8 on the results side",Document_Info,Incorrect
+3764-b,06142021 has sample port 8 recorded and it is missing port 11.,Document_Info,Incorrect
+3765,06Jul2021 needs to be added to the test date,Date,Incomplete
+67992,07272020 Test Step 15 Rejection,Document_Info,Incorrect
+3766,07Oct is written in the test by date twice.  It only needs to be there once.,Date,Incorrect
+47135,"1 - infocard author should be changed to main analyst
+2 - STRs with Lab ID numbers are required since the samples were transferred from EDH",Multi_Obj,Multi_Attribs
+47135-a,"1 - infocard author should be changed to main analyst",InfoCard,Incorrect
+47135-b,2 - STRs with Lab ID numbers are required since the samples were transferred from EDH,Document_Info,Missing
+66989,"1 - Please add description to the cable label.
+2 - Please replace digikey p/n with manufacturing name and part number to the word document for the label.",Multi_Obj,Multi_Attribs
+66989-a,"1 - Please add description to the cable label.",Document_Info,Incomplete
+66989-b,2 - Please replace digikey p/n with manufacturing name and part number to the word document for the label.,Document_Info,Incorrect
+189469,"1- Add build list to scope (sec 1.2)
+2- Add/Ref EEP address locations (sec 3.9)
+3- Ref M007-117 for Flasher version (sec 3.11)
+4- Correct filename descriptions (sec 3.12)",Multi_Obj,Multi_Attribs
+189469-a,"1- Add build list to scope (sec 1.2)",Document_Info,Missing
+189469-b,"2- Add/Ref EEP address locations (sec 3.9)
+",Address,Missing
+189469-c,"3- Ref M007-117 for Flasher version (sec 3.11)",Document_Info,Incorrect
+189469-d,4- Correct filename descriptions (sec 3.12),Document_Info,Incorrect
+114881,"1- Add the new LIMS SOP in section 4 reference section.
+2- The correct title of SOP QCD-022 is Monitoring of Manufacturing Water System, RODI-005. 
+",Multi_Obj,Multi_Attribs
+114881-a,"1- Add the new LIMS SOP in section 4 reference section.",Document_Info,Missing
+114881-b,"2- The correct title of SOP QCD-022 is Monitoring of Manufacturing Water System, RODI-005. ",Title,Incorrect
+160620,1 approver missing,Approval,Missing
+82424,"1 change document number, Because SmSolve is no longer in use.
+2 uipdate the attachment of the review log.",Multi_Obj,Multi_Attribs
+82424-a,"1 change document number, Because SmSolve is no longer in use.
+",Document_Info,Incorrect
+82424-b,2 uipdate the attachment of the review log.,Attachment,Incorrect
+82386,"1 Change old document number.
+2 update the change description in the packet and attachment.",Multi_Obj,Multi_Attribs
+82386-a,"1 Change old document number.",Document_Info,Incorrect
+82386-b,2 update the change description in the packet and attachment.,Document_Info,Incorrect
+114882,"1- Change the animal origin statement in the spec to no animal origin.
+2- The osmolality and PH should match the spec as written below.
+>=260 to <=290 mOsm/kg
+>=6.9 to <= 7.3
+",Multi_Obj,Multi_Attribs
+114882-a,"1- Change the animal origin statement in the spec to no animal origin.",Document_Info,Incorrect
+114882-b,"2- The osmolality and PH should match the spec as written below.",Document_Info,Incorrect
+114882-c,">=260 to <=290 mOsm/kg",Document_Text_Seg,Incorrect
+114882-d,">=6.9 to <= 7.3",Document_Text_Seg,Incorrect
+82387,"1 Change the document number on the footpage.
+2 Remove the old document from the attachment & links.",Multi_Obj,Multi_Attribs
+82387-a,"1 Change the document number on the footpage.",Document_Formatting,Incorrect
+82387-b,2 Remove the old document from the attachment & links.,Attachment,Incorrect
+95312,"1 comment: 
+To include classification of a cement according to ISO 9917-2:2017, point 4.1. (comment is related to BSI NCR issued in Autumn 2020).",Document_Info,Missing
+114885,"1- correct the title-Title:	10 mM PO4, 110 mM NaCl Solution, pH 7.0 . Add Sodium to PO4
+2- Extra zero in 8000444 SAP part number",Multi_Obj,Multi_Attribs
+114885-a,"1- correct the title-Title:	10 mM PO4, 110 mM NaCl Solution, pH 7.0 . Add Sodium to PO4",Title,Incorrect
+114885-b,2- Extra zero in 8000444 SAP part number,Document_Text_Seg,Incorrect
+56441,1 digit typo on bom,Document_Text_Seg,Incorrect
+131920,1 line needs re-translated,Document_Info,Incorrect
+33579,1 more change needed for Spain,Document_Info,Incorrect
+133838,"1- No Revision 02 is on the Revision history table so we dont know what changed.
+
+2- No one from QE and Validation participated in the collaboration step.",Multi_Obj,Multi_Attribs
+133838-a,"1- No Revision 02 is on the Revision history table so we dont know what changed.",Document_Info,Missing
+133838-b,2- No one from QE and Validation participated in the collaboration step.,Approval,Incorrect
+187814,1 or 2 slides on the samples should be added,Document_Info,Missing
+82389,"1 Please add EHS role in the the approver list when the document in first approval.
+2 Please update the attachment.",Multi_Obj,Multi_Attribs
+82389-a,"1 Please add EHS role in the the approver list when the document in first approval.",Approval,Missing
+82389-b,2 Please update the attachment.,Attachment,Missing
+82390,"1 Please change old document number on the page 3 in the attachment.
+2 please update the statement of validation in the packet.",Multi_Obj,Multi_Attribs
+82390-a,"1 Please change old document number on the page 3 in the attachment.",Document_Info,Obsolete
+82390-b,2 please update the statement of validation in the packet.,Document_Info,Obsolete
+82391,"1 Please change the verfication selelcation in the packet, process verfication selection should be the same as in the ECN021516.
+2 Please update the attachment.",Multi_Obj,Multi_Attribs
+82391-a,"1 Please change the verfication selelcation in the packet, process verfication selection should be the same as in the ECN021516.",Document_Info,Incorrect
+82391-b,2 Please update the attachment.,Attachment,Obsolete
+82392,"1 Please remove old document from attachment & links.
+2 the document number is wrong in the attachment.",Multi_Obj,Multi_Attribs
+82392-a,"1 Please remove old document from attachment & links.",Attachment,Obsolete
+82392-b,2 the document number is wrong in the attachment.,Attachment,Incorrect
+82394,"1 Please remove old document from the attachments.
+2 please adjust the layout of the attachment.
+3 please change the selection of the production verfication accroding to the ECN.",Multi_Obj,Multi_Attribs
+82394-a,"1 Please remove old document from the attachments.",Attachment,Obsolete
+82394-b,"2 please adjust the layout of the attachment.",Document_Formatting,Incorrect
+82394-c,3 please change the selection of the production verfication accroding to the ECN.,Document_Info,Incorrect
+82393,"1 Please remove old document from the attachments.
+2 Please change old document number in the attachment and adjust the layout.",Multi_Obj,Multi_Attribs
+82393-a,"1 Please remove old document from the attachments.",Attachment,Obsolete
+180105,"1- Please remove PS80 as it is not used.
+2- Please note for Sucrose, Histidine, Histidine.HCl, And Methionine, full (versus only ID) compendial confirmatory testing is performed",Multi_Obj,Multi_Attribs
+180105-a,"1- Please remove PS80 as it is not used.",Document_Info,Unnecessary
+180105-b,"2- Please note for Sucrose, Histidine, Histidine.HCl, And Methionine, full (versus only ID) compendial confirmatory testing is performed",Document_Info,Incorrect
+82429,"1 please update the attachment.
+2  change the selection of the verfication in the packet.",Multi_Obj,Multi_Attribs
+82429-a,"1 please update the attachment.",Attachment,Obsolete
+82429-b,2  change the selection of the verfication in the packet.,Document_Info,Incorrect
+82402,"1 Please update the attachment.
+2 Remove the old document from the attachment & links.",Multi_Obj,Multi_Attribs
+82402-a,"1 Please update the attachment.",Attachment,Obsolete
+82402-b,2 Remove the old document from the attachment & links.,Attachment,Obsolete
+82404,"1 Please update the attachment.
+2 update old document number on the attachment.
+3 Add change infroamtion on the change description and change section in the attachment.",Multi_Obj,Multi_Attribs
+82404-a,"1 Please update the attachment.",Attachment,Obsolete
+82404-b,"2 update old document number on the attachment.",Attachment,Incorrect
+82404-c,3 Add change infroamtion on the change description and change section in the attachment.,Document_Info,Incomplete
+82403,"1 Please update the attachment.
+2 Update old document number on the attachment.
+3 Please update the statement on the validation field according to WI-013555.",Multi_Obj,Multi_Attribs
+82403-a,"1 Please update the attachment.",Attachment,Obsolete
+82403-b,"2 Update old document number on the attachment.",Attachment,Incorrect
+82403-c,3 Please update the statement on the validation field according to WI-013555.,Document_Info,Obsolete
+82405,"1 Please update the format of the attachment  WI-00345.
+2 Please update the statement of risk assessment & V &V in the packet per WI-013555",Multi_Obj,Multi_Attribs
+82405-a,"1 Please update the format of the attachment  WI-00345.",Document_Formatting,Obsolete
+82405-b,2 Please update the statement of risk assessment & V &V in the packet per WI-013555,Document_Info,Obsolete
+82406,"1 Please update the fromat of the attachment WI-00346
+2 please add EHS role in the list of approvers.
+3 please update the statement of risk assessment & V&V in the packet.",Multi_Obj,Multi_Attribs
+82406-a,"1 Please update the fromat of the attachment WI-00346",Document_Formatting,Obsolete
+82406-b,"2 please add EHS role in the list of approvers.",Document_Info,Incomplete
+82406-c,3 please update the statement of risk assessment & V&V in the packet.,Document_Info,Obsolete
+82407,"1 Please update the statement of risk asessment & V&V in the packet.
+2 Remove old document from the attachment & links.",Multi_Obj,Multi_Attribs
+82407-a,"1 Please update the statement of risk asessment & V&V in the packet.",Document_Info,Obsolete
+82407-b,2 Remove old document from the attachment & links.,Attachment,Unnecessary
+82430,"1 please update the statement of risk assessment & V&V in the packet.
+2 EHS approver need to be added into the approver list because the document is first approved.",Multi_Obj,Multi_Attribs
+82430-a,"1 please update the statement of risk assessment & V&V in the packet.",Document_Info,Obsolete
+82430-b,2 EHS approver need to be added into the approver list because the document is first approved.,Document_Info,Incomplete
+82408,"1 Please update the statement of risk assessment & Verfication & Validation in the packet.
+2  Please update the change reason.",Multi_Obj,Multi_Attribs
+82408-a,"1 Please update the statement of risk assessment & Verfication & Validation in the packet.",Document_Info,Obsolete
+82408-b,2  Please update the change reason.,Document_Info,Obsolete
+82409,"1 Please update the statement of risk assessment & verfication & validation in the packet.
+2 Please updated the review log and the attachment.",Multi_Obj,Multi_Attribs
+82409-a,"1 Please update the statement of risk assessment & verfication & validation in the packet.",Document_Info,Obsolete
+82409-b,2 Please updated the review log and the attachment.,Attachment,Obsolete
+82410,"1 Please update the statement of risk assessment & verfication & validation.
+2 The change description in the packet should be the same as in  the attachment.",Multi_Obj,Multi_Attribs
+82410-a,"1 Please update the statement of risk assessment & verfication & validation.",Document_Info,Obsolete
+82410-b,2 The change description in the packet should be the same as in  the attachment.,Document_Info,Incorrect
+82411,"1 Please use new template 
+2 Please delete the previous attachment",Multi_Obj,Multi_Attribs
+82411-a,"1 Please use new template ",Document_Formatting,Obsolete
+82411-b,2 Please delete the previous attachment,Attachment,Unnecessary
+132788,1 reference to pooled platelets still in SOP,Reference,Unknown
+114883,"1- Rejecting this spec because it skipped QA review in Step 3, SME Collaboration.",Document_Info,Incomplete
+82412,"1 Remove old attachment from attachment & links.
+2 Risk statement need to be updated.
+3 update the format of the attachment.",Multi_Obj,Multi_Attribs
+82412-a,"1 Remove old attachment from attachment & links.",Attachment,Unnecessary
+82412-b,"2 Risk statement need to be updated.",Document_Info,Obsolete
+82412-c,3 update the format of the attachment.,Document_Formatting,Obsolete
+82414,"1 Remove old document from attachment & links.
+2 Version  number is wrong on the attachment.
+3 Change document number on the page 4.
+4  The header information missed.",Multi_Obj,Multi_Attribs
+82414-a,"1 Remove old document from attachment & links.",Attachment,Obsolete
+82414-b,"2 Version  number is wrong on the attachment.",Version,Incorrect
+82414-c,"3 Change document number on the page 4.",Document_Info,Incorrect
+82414-d,4  The header information missed.,Document_Info,Missing
+82416,"1 Remove old version attachment from attachment & links.
+2 update the statement of  risk asseeement.
+3 add owner into the approver list in release step.",Multi_Obj,Multi_Attribs
+82416-a,"1 Remove old version attachment from attachment & links.",Attachment,Obsolete
+82416-b,"2 update the statement of  risk asseeement.",Document_Info,Obsolete
+82416-c,3 add owner into the approver list in release step.,Approval,Incomplete
+82417,"1 Remove old version attachment from attachments &links.
+2 update the statement of process V&V in packet.",Multi_Obj,Multi_Attribs
+82417-a,"1 Remove old version attachment from attachments &links.",Attachment,Obsolete
+82417-b,2 update the statement of process V&V in packet.,Document_Info,Obsolete
+82418,"1 Remove old version document from the attachment & Linksã€‚
+2 Please change old document number in the attachment.",Multi_Obj,Multi_Attribs
+82418-a,"1 Remove old version document from the attachment & Linksã€‚",Attachment,Obsolete
+82418-b,2 Please change old document number in the attachment.,Attachment,Obsolete
+114884,"1- Section 2.1, 7.1.5.1, 7.2.2 mentions about incidents. ",Document_Info,Unknown
+95313,1 slight change should be made,Document_Info,Incorrect
+123415,1 tab is missing from the price list,Document_Info,Incomplete
+123416,1 tab is missing from the price list ,Document_Info,Incomplete
+82419,"1 The change histroty information of version 4 is  missing  in the attachment.
+2 Please change the statements on the risk asssessment & verfication & validation in the packet.",Multi_Obj,Multi_Attribs
+82419-a,"1 The change histroty information of version 4 is  missing  in the attachment.",Attachment,Incomplete
+82419-b,2 Please change the statements on the risk asssessment & verfication & validation in the packet.,Document_Info,Incorrect
+82420,"1 The selection of verfication is dfferent with ECN 012786.
+2 Please update the attachments in the attachments & links.",Multi_Obj,Multi_Attribs
+82420-a,"1 The selection of verfication is dfferent with ECN 012786.",Document_Info,Incorrect
+82420-b,2 Please update the attachments in the attachments & links.,Attachment,Obsolete
+82421,"1 There is no content in the attachment.
+2 Please update the statement of risk assessment & V&V in packet.
+3 Please add EHS role into the approver list.",Multi_Obj,Multi_Attribs
+82421-a,"1 There is no content in the attachment.",Attachment,Incomplete
+82421-b,"2 Please update the statement of risk assessment & V&V in packet.",Document_Info,Obsolete
+55162,"1- to update title 
+2- to correct System#
+3- to add an inline dew point",Multi_Obj,Multi_Attribs
+55162-a,"1- to update title ",Title,Obsolete
+55162-b,"2- to correct System#",Document_Info,Incorrect
+55162-c,3- to add an inline dew point,Document_Info,Incomplete
+82432,"1 update the attachment.
+2 update the reason for change and change description in the packet and attachment.",Multi_Obj,Multi_Attribs
+82432-a,"1 update the attachment.",Attachment,Obsolete
+82432-b,2 update the reason for change and change description in the packet and attachment.,Document_Info,Obsolete
+82433,"1 update the change description .
+2 update the attachment.
+3 update the risk &  V&V statement.",Multi_Obj,Multi_Attribs
+82433-a,"1 update the change description .",Document_Info,Obsolete
+82433-b,"2 update the attachment.",Attachment,Obsolete
+82433-c,3 update the risk &  V&V statement.,Document_Info,Obsolete
+82435,"1 update the format of the attachment and Incorrect date information.
+2 update the statement in the risk assessment and V&V fields.",Multi_Obj,Multi_Attribs
+82435-a,"1 update the format of the attachment and Incorrect date information.",Document_Formatting,Obsolete
+82435-b,2 update the statement in the risk assessment and V&V fields.,Document_Info,Obsolete
+82434,"1 update the format of the attachment
+2 update the change description in attachment and packet.",Multi_Obj,Multi_Attribs
+82434-a,"1 update the format of the attachment",Attachment,Obsolete
+82434-b,2 update the change description in attachment and packet.,Attachment,Obsolete
+82423,"1 Update the scaned review log record.
+2 Review log record should be saved into the supporting information in the packet.
+3 Update the statement of risk asssessment in the packet.",Multi_Obj,Multi_Attribs
+82423-a,"1 Update the scaned review log record.",Document_Info,Obsolete
+82423-b,"2 Review log record should be saved into the supporting information in the packet.",Document_Info,Incorrect
+82423-c,3 Update the statement of risk asssessment in the packet.,Document_Info,Obsolete
+82436,"1 updated the attachment.
+2 update the statement on the V&V fields.
+3 change the selection on the validation field.",Multi_Obj,Multi_Attribs
+82436-a,"1 updated the attachment.",Attachment,Obsolete
+82436-b,"2 update the statement on the V&V fields.",Document_Info,Obsolete
+82436-c,3 change the selection on the validation field.,Document_Info,Incorrect
+172020,1 year in JDE is 360 days rather than 365 days (1440 total).,Document_Info,Incorrect
+3778,"1)  Complete FRM282 header
+2)  Reference the ADE document number used for the ADE value",Multi_Obj,Multi_Attribs
+3778-a,"1)  Complete FRM282 header",Document_Info,Incomplete
+3778-b,2)  Reference the ADE document number used for the ADE value,Reference,Missing
+3779,"1)  Complete FRM282 header
+2)  Reference the ADE document number used for the ADE value
+",Multi_Obj,Multi_Attribs
+3779-a,"1)  Complete FRM282 header",Document_Info,Incomplete
+3779-b,"2)  Reference the ADE document number used for the ADE value
+",Reference,Incorrect
+131326,"1)  III.B.2 should be multiple steps.
+
+2) Inconsistencies in bolding of MC field names.
+
+3) Should really be validated before routing for approval.",Multi_Obj,Multi_Attribs
+131326-a,"1)  III.B.2 should be multiple steps.",Document_Info,Incorrect
+131326-b,"2) Inconsistencies in bolding of MC field names.",Document_Formatting,Incorrect
+131326-c,3) Should really be validated before routing for approval.,Approval,Missing
+3459,"1)  native and PDF is not aligned
+2) incorrect change description
+3) no courses created
+4) Form number is duplicated",Multi_Obj,Multi_Attribs
+3459-a,"1)  native and PDF is not aligned",Document_Formatting,Incorrect
+3459-b,"2) incorrect change description",Document_Info,Incorrect
+3459-c,"3) no courses created",Document_Info,Missing
+3459-d,4) Form number is duplicated,Document_Info,Duplicate
+47147,"1)  Project infocard author name should be the main analyst's name.
+2) Based on the SSF, sample name is ACC-416, not RTA-402 in the Table 1 of the report.",Multi_Obj,Multi_Attribs
+47147-a,"1)  Project infocard author name should be the main analyst's name.",InfoCard,Incorrect
+47147-b,"2) Based on the SSF, sample name is ACC-416, not RTA-402 in the Table 1 of the report.",Document_Info,Incorrect
+131327,"1)  Signs need to be converted back to PDF before sending for review.
+2) Please accept formatting changes in SOP before sending for review",Multi_Obj,Multi_Attribs
+131327-a,"1)  Signs need to be converted back to PDF before sending for review.",Document_Formatting,Incorrect
+131327-b,2) Please accept formatting changes in SOP before sending for review,Document_Formatting,Obsolete
+47148,"1)  The author for 20-EDHP-0316 project infocard should be the main analyst.
+2) To attach the excel sheet for the sample result calculation into the project infocard.",Multi_Obj,Multi_Attribs
+47148-a,"1)  The author for 20-EDHP-0316 project infocard should be the main analyst.",InfoCard,Incorrect
+47148-b,2) To attach the excel sheet for the sample result calculation into the project infocard.,Attachment,Missing
+131328,"1)  This document cannot be sent through without the changes being accepted.
+2) Most of these edits are unneccessary.",Multi_Obj,Multi_Attribs
+131328-a,"1)  This document cannot be sent through without the changes being accepted.",Document_Formatting,Incorrect
+131328-b,2) Most of these edits are unneccessary.,Document_Formatting,Unnecessary
+131329,"1)  This document cannot be sent through without the changes being accepted.
+2) Most of these edits are unneccessary.  ",Multi_Obj,Multi_Attribs
+66360,"1)  SEC should be hyphenated
+2)  Rob is listed for future tasks - assignments should be updated",Multi_Obj,Multi_Attribs
+66360-a,"1)  SEC should be hyphenated
+",Document_Text_Seg,Incorrect
+66360-b,2)  Rob is listed for future tasks - assignments should be updated,Document_Info,Obsolete
+47149,"1) ""RC-QC-024: 14-17"" in Associated Documents should be ""EDH-QC-024: 14-17""
+2) Missing Preventive Action",Multi_Obj,Multi_Attribs
+47149-a,"1) ""RC-QC-024: 14-17"" in Associated Documents should be ""EDH-QC-024: 14-17""",Document_Text_Seg,Incorrect
+47149-b,2) Missing Preventive Action,Document_Info,Missing
+47150,"1) ""The samples were analyzed using a reflective sample holder. "" in Section 3.0 is wrong.
+2) It is preferable to have ""Mode"" item in Table 3.",Multi_Obj,Multi_Attribs
+47150-a,"1) ""The samples were analyzed using a reflective sample holder. "" in Section 3.0 is wrong.",Document_Info,Incorrect
+47150-b,"2) It is preferable to have ""Mode"" item in Table 3.",Document_Formatting,Incorrect
+47248,"1) â€œ20-ED-0195-02â€ should be listed in the Associated Document section.
+2) â€œIn redâ€ is missing from the end of Figure 7 Title.",Multi_Obj,Multi_Attribs
+47248-a,"1) â€œ20-ED-0195-02â€ should be listed in the Associated Document section.
+",Document_Formatting,Incomplete
+47248-b,2) â€œIn redâ€ is missing from the end of Figure 7 Title.,Title,Incomplete
+188470,"1) Add Dean to QR253
+2) Hold ECO for effectivity until Train the Trainer courses have been completed.",Multi_Obj,Multi_Attribs
+188470-a,"1) Add Dean to QR253
+",Document_Info,Incomplete
+188470-b,2) Hold ECO for effectivity until Train the Trainer courses have been completed.,Unknown,Unknown
+132789,"1) Add OSHA's required elements of annual review
+2) Incorporate and archive BBD-SOP-0374 Handwashing Procedure",Multi_Obj,Multi_Attribs
+132789-a,"1) Add OSHA's required elements of annual review",Document_Info,Missing
+132789-b,2) Incorporate and archive BBD-SOP-0374 Handwashing Procedure,Document_Info,Incorrect
+46538,"1) add TBA at section 2.1 for Tert butyl Alcohol
+2) add serial No. of electrode at section 3.2",Multi_Obj,Multi_Attribs
+46538-a,"1) add TBA at section 2.1 for Tert butyl Alcohol",Document_Info,Incomplete
+46538-b,2) add serial No. of electrode at section 3.2,Document_Info,Incomplete
+131921,"1) Adequar coluna que cita POP Bio;
+2) Layout nÃ£o estÃ¡ adequado para o formato layout de pÃ¡gina.",Multi_Obj,Multi_Attribs
+131921-a,"1) Adequar coluna que cita POP Bio;
+",Unknown,Unknown
+131921-b,2) Layout nÃ£o estÃ¡ adequado para o formato layout de pÃ¡gina.,Unknown,Unknown
+129660,"1) All of your page numbers in the Change Table are incorrect.  Mostly by one page.
+
+2) The Revision in header is ""Rev 01"" it should be ""Rev 02"".",Multi_Obj,Multi_Attribs
+129660-a,"1) All of your page numbers in the Change Table are incorrect.  Mostly by one page.",Document_Formatting,Incorrect
+129660-b,"2) The Revision in header is ""Rev 01"" it should be ""Rev 02"".",Document_Text_Seg,Incorrect
+47154,"1) Attached SSF is not completed.
+2) To add EDHP project IDs to Reference Standard Form A and B in Results Summary section.",Multi_Obj,Multi_Attribs
+47154-a,"1) Attached SSF is not completed.",Attachment,Incomplete
+47154-b,2) To add EDHP project IDs to Reference Standard Form A and B in Results Summary section.,Document_Info,Incomplete
+69315,"1) Bead Blasting and/or passivation needs to be called out on these drawings as appropriate. None of the drawings specify a finish or passivation.  
+",Document_Info,Incorrect
+3782,"1) CAPA not needed to quarantine a record for revision
+2) Does not address yield variation from DIR",Multi_Obj,Multi_Attribs
+3782-b,2) Does not address yield variation from DIR,Document_Info,Incorrect
+131922,"1) CorreÃ§Ã£o do logo duplicado;
+2) Tabela pg. 4 cortada, deve ser melhor visualizada no layout de paisagem.",Multi_Obj,Multi_Attribs
+131922-a,"1) CorreÃ§Ã£o do logo duplicado;",Unknown,Unknown
+131922-b,"2) Tabela pg. 4 cortada, deve ser melhor visualizada no layout de paisagem.",Unknown,Unknown
+114877,"1) Correct formatting issues
+2) Add SAP 3000644
+3) Replace 'balance' with 'scale'",Multi_Obj,Multi_Attribs
+114877-a,"1) Correct formatting issues",Document_Formatting,Incorrect
+114877-b,"2) Add SAP 3000644",Document_Info,Missing
+114877-c,3) Replace 'balance' with 'scale',Document_Text_Seg,Incorrect
+66990,"1) Correct H-ENG-0121 page 2 drawing title from ""Back Panel"" to match page 1  PIU CABLE HOOK MOUNT BOTTOM""
+2) Add ""if applicable"" after ""Lot Number"" for H-PP-00629.",Multi_Obj,Multi_Attribs
+66990-b,"2) Add ""if applicable"" after ""Lot Number"" for H-PP-00629.",Document_Text_Seg,Incorrect
+105161,"1) Correct release date in footer, 2) Correct Form title on InfoCard",Multi_Obj,Multi_Attribs
+70661,"1) Correct revision number on the header. Revision is 04 instead of 05
+2) Correct Room number for Warehouse and Warehouse Mezzanine. It's Room 165 instead of Room 161A",Multi_Obj,Multi_Attribs
+70661-a,"1) Correct revision number on the header. Revision is 04 instead of 05",Document_Info,Incorrect
+70661-b,2) Correct Room number for Warehouse and Warehouse Mezzanine. It's Room 165 instead of Room 161A,Document_Text_Seg,Incorrect
+132790,"1) Correct the definition of CLIA
+2) Update 6 defined areas for CLIA competency assessment 
+3) Needs minor wording changes for clarity (suggested changes will be uploaded to index card)",Multi_Obj,Multi_Attribs
+132790-a,"1) Correct the definition of CLIA",Document_Info,Incorrect
+132790-b,"2) Update 6 defined areas for CLIA competency assessment ",Document_Info,Incorrect
+132790-c,3) Needs minor wording changes for clarity (suggested changes will be uploaded to index card),Document_Info,Unclear
+55161,"1) correct typo for ""X"" in 4.1
+2) Add reference to LC analysis in 3.1.1",Multi_Obj,Multi_Attribs
+55161-a,"1) correct typo for ""X"" in 4.1",Document_Text_Seg,Incorrect
+55161-b,2) Add reference to LC analysis in 3.1.1,Reference,Incomplete
+108901,"1) D2138-00, add new file.",Attachment,Missing
+173132,"1) DCO form is not on the released revision
+2) Please link the QM to the DCO infocard",Multi_Obj,Multi_Attribs
+173132-a,"1) DCO form is not on the released revision",Attachment,Missing
+173132-b,2) Please link the QM to the DCO infocard,InfoCard,Incomplete
+163741,"1) First page of FRM 05 contains question marks in page number section. 
+2) FRM 6 Page numbering is not in-line with FRM 04 or 05. ",Multi_Obj,Multi_Attribs
+163741-a,"1) First page of FRM 05 contains question marks in page number section. ",Document_Formatting,Incorrect
+163741-b,2) FRM 6 Page numbering is not in-line with FRM 04 or 05. ,Document_Formatting,Incorrect
+47245,"1) fix attachment names to match
+2) update site on custom fields
+3) update task ID",Multi_Obj,Multi_Attribs
+47245-a,"1) fix attachment names to match",Attachment,Incorrect
+47245-b,"2) update site on custom fields",Document_Info,Obsolete
+47245-c,3) update task ID,Document_Info,Obsolete
+55080,"1) Form is missing the revision page.
+2) Page 2 is blank.",Multi_Obj,Multi_Attribs
+55080-a,"1) Form is missing the revision page.",Document_Info,Missing
+55080-b,2) Page 2 is blank.,Document_Formatting,Incorrect
+47159,"1) Format issue in Table of Contents
+2) To link relevant 4 sample infocards to the project infocard.
+3) To correct the future tense in Section 10.3.",Multi_Obj,Multi_Attribs
+47159-a,"1) Format issue in Table of Contents",Document_Formatting,Incorrect
+47159-b,"2) To link relevant 4 sample infocards to the project infocard.",InfoCard,Incomplete
+47159-c,3) To correct the future tense in Section 10.3.,Document_Formatting,Incorrect
+91811,"1) Formatting of 8.2.3 - 8.2.5 should be next level.
+2) Use definitive language",Multi_Obj,Multi_Attribs
+91811-a,"1) Formatting of 8.2.3 - 8.2.5 should be next level.",Document_Formatting,Incorrect
+91811-b,2) Use definitive language,Document_Info,Incorrect
+47160,"1) ICP-MS title with XRPD content ?
+2) revision number is not updated on the cover page.",Multi_Obj,Multi_Attribs
+47160-a,"1) ICP-MS title with XRPD content ?",Title,Incorrect
+47160-b,2) revision number is not updated on the cover page.,Document_Info,Obsolete
+47162,"1) In ICP-MS, the Ni number in J00030994 is not the number in its Excel sheet.  
+2) HPLC Assay sequence report is missing from the attachments",Multi_Obj,Multi_Attribs
+47162-a,"1) In ICP-MS, the Ni number in J00030994 is not the number in its Excel sheet.  ",Document_Info,Incorrect
+47162-b,2) HPLC Assay sequence report is missing from the attachments,Attachment,Missing
+47165,"1) In notebook EDH-QC-080 pg80, there is a cross out at Autosampler item without initial and date. 
+2) ""012121 Comprehensive pdf"" in the attachment of project infocard was mis-labelled.",Multi_Obj,Multi_Attribs
+47165-a,"1) In notebook EDH-QC-080 pg80, there is a cross out at Autosampler item without initial and date. ",Approval,Missing
+47165-b,"2) ""012121 Comprehensive pdf"" in the attachment of project infocard was mis-labelled.",InfoCard,Incorrect
+47167,"1) In the report, there are a few format errors in the section 4.0
+2) ""20-EDHP-0052.01"" in the revision history is wrong.",Multi_Obj,Multi_Attribs
+47167-a,"1) In the report, there are a few format errors in the section 4.0",Document_Formatting,Incorrect
+47167-b,"2) ""20-EDHP-0052.01"" in the revision history is wrong.",Document_Info,Incorrect
+47169,"1) In the section 2 of the report, ""Eight samples"" are not correct.
+2) In the Table 5, the upper left cell should be filled with ""Element"" instead of ""Sample ID"".",Multi_Obj,Multi_Attribs
+47169-a,"1) In the section 2 of the report, ""Eight samples"" are not correct.",Document_Info,Incorrect
+47169-b,"2) In the Table 5, the upper left cell should be filled with ""Element"" instead of ""Sample ID"".",Document_Text_Seg,Incorrect
+189816,"1) In Title, say ""32 fl. oz."",
+2) Say ""Fill"", and make specification 32 fl. oz. minimum"",
+3) For Spray Rate, include ""Primed Pump"",
+4) For both microbial tests, say ""Spartan Method"".",Multi_Obj,Multi_Attribs
+189816-a,"1) In Title, say ""32 fl. oz."",",Document_Text_Seg,Incorrect
+189816-b,"2) Say ""Fill"", and make specification 32 fl. oz. minimum"",",Document_Text_Seg,Incorrect
+189816-c,"3) For Spray Rate, include ""Primed Pump"",",Document_Text_Seg,Incorrect
+189816-d,"4) For both microbial tests, say ""Spartan Method"".",Document_Text_Seg,Incorrect
+133833,"1) Incorporate reviewer's comments and accept/reject changes
+2) Add QA as collaborator",Multi_Obj,Multi_Attribs
+133833-a,"1) Incorporate reviewer's comments and accept/reject changes",Document_Formatting,Incorrect
+133833-b,2) Add QA as collaborator,Approval,Missing
+131338,"1) InfoCard has wrong A & O.  Need to abort and correct.
+
+2) Indicator card graphic may be wrong.  Verify with CW.",Multi_Obj,Multi_Attribs
+131338-a,"1) InfoCard has wrong A & O.  Need to abort and correct.",InfoCard,Incorrect
+131338-b,2) Indicator card graphic may be wrong.  Verify with CW.,Document_Info,Incorrect
+47171,"1) KF test, analyst TTR is missing.
+2) â€œTable 3: Scan Settings for Empyrean XRPDâ€ is separated from the Table by different pages.",Multi_Obj,Multi_Attribs
+47171-a,"1) KF test, analyst TTR is missing.",Document_Info,Missing
+47171-b,2) â€œTable 3: Scan Settings for Empyrean XRPDâ€ is separated from the Table by different pages.,Document_Formatting,Incorrect
+47172,"1) Lab ID Number is for received sample numbers, not something else.
+2) To fill the first line of revision history.",Multi_Obj,Multi_Attribs
+47172-a,"1) Lab ID Number is for received sample numbers, not something else.",Document_Info,Incorrect
+47172-b,2) To fill the first line of revision history.,Document_Info,Incomplete
+47173,"1) Lab ID number is wrong.
+2) Site RC is wrong.
+3) Report type lab event is wrong.",Multi_Obj,Multi_Attribs
+47173-a,"1) Lab ID number is wrong.",Document_Info,Incorrect
+47173-b,"2) Site RC is wrong.",Document_Info,Incorrect
+47173-c,3) Report type lab event is wrong.,Document_Info,Incorrect
+47174,"1) Lab ID number should be the EDHP sample number, not the TP number.
+2) Typo in ""rerun as 12120"" in Investigation Summary.",Multi_Obj,Multi_Attribs
+47174-a,"1) Lab ID number should be the EDHP sample number, not the TP number.",Document_Info,Incorrect
+47174-b,"2) Typo in ""rerun as 12120"" in Investigation Summary.",Document_Text_Seg,Incorrect
+47176,1) Missed link to sample infocard #11. 2) One of the samples says ACC-568/3. 3) Second page of SSF doesn't have Received by/Date and Project # filled out.,Multi_Obj,Multi_Attribs
+133834,"1) Missing Attachment of Asset No. 310802, ""Instrument Master Report""
+2) Wrong Calibration status for CAL-0541112 for 310801
+Date Calibrated: 16 Feb 2021
+Date Due: 31 May 2021",Multi_Obj,Multi_Attribs
+133834-a,"1) Missing Attachment of Asset No. 310802, ""Instrument Master Report""",Attachment,Missing
+133834-b,"2) Wrong Calibration status for CAL-0541112 for 310801",Document_Info,Incorrect
+133835,"1) Missing Attachment of the Asset No. 310694, 310696, and 310697, ""Instrument Master Report""",Attachment,Missing
+47177,"1) Missing notebook page number(s) in the QCR.
+2) It is almost two years between event occurrence and the QCR launch date.  Why?",Multi_Obj,Multi_Attribs
+47177-a,"1) Missing notebook page number(s) in the QCR.",Document_Formatting,Incomplete
+47177-b,2) It is almost two years between event occurrence and the QCR launch date.  Why?,Document_Info,Incorrect
+47178,"1) Missing reviewer's TTR.
+2) Temperature 12.9 C on SSF, and Temperature 12.4 C in 20-EDHP-0335-01, which one is correct?",Multi_Obj,Multi_Attribs
+47178-a,"1) Missing reviewer's TTR.",Approval,Missing
+47178-b,"2) Temperature 12.9 C on SSF, and Temperature 12.4 C in 20-EDHP-0335-01, which one is correct?",Document_Info,Incorrect
+47246,"1) missing Thermometer CP number and Exp date in 20-EDHP-0142.02 infocard.
+2) No ""QCR-20-0536.01, Iron Contamination in Method Blank"" was recorded on notebook pages.",Multi_Obj,Multi_Attribs
+47246-a,"1) missing Thermometer CP number and Exp date in 20-EDHP-0142.02 infocard.",InfoCard,Incomplete
+47246-b,"2) No ""QCR-20-0536.01, Iron Contamination in Method Blank"" was recorded on notebook pages.",Document_Info,Missing
+89834,"1) Native file displays the redlines
+2) CR missing in change history block",Multi_Obj,Multi_Attribs
+89834-a,"1) Native file displays the redlines",Document_Formatting,Incorrect
+89834-b,2) CR missing in change history block,Document_Info,Incomplete
+108905,"1) need regulatory strategy response attached
+2) need a document signed by Zhang",Multi_Obj,Multi_Attribs
+108905-a,"1) need regulatory strategy response attached",Attachment,Missing
+108905-b,2) need a document signed by Zhang,Approval,Missing
+131340,"1) Need to fix formatting in some documents.
+2) Smart link all document infocards
+3) Add links to B virus lab forms",Multi_Obj,Multi_Attribs
+131340-a,"1) Need to fix formatting in some documents.",Document_Formatting,Incorrect
+131340-b,"2) Smart link all document infocards",InfoCard,Incorrect
+131340-c,3) Add links to B virus lab forms,Attachment,Incomplete
+155603,"1) Need training instructions in the Instructions section
+2) Create 10 question exam",Multi_Obj,Multi_Attribs
+155603-a,"1) Need training instructions in the Instructions section",Document_Info,Incomplete
+155603-b,2) Create 10 question exam,Document_Info,Missing
+47180,"1) No sample infocard is linked to the project infocard.
+2) Sample name in the report is partially different from the sample name in SSF.",Multi_Obj,Multi_Attribs
+47180-a,"1) No sample infocard is linked to the project infocard.",InfoCard,Incomplete
+47180-b,2) Sample name in the report is partially different from the sample name in SSF.,Document_Info,Incorrect
+66991,"1) P3, P4 on H-ENG-01146 cable need to have red and black wire.
+2) how are the wire connected to H-ENG-01299 terminal?",Multi_Obj,Multi_Attribs
+66991-a,"1) P3, P4 on H-ENG-01146 cable need to have red and black wire.
+",Document_Info,Incorrect
+66991-b,2) how are the wire connected to H-ENG-01299 terminal?,Document_Info,Incomplete
+91982,"1) Pagination needs to be fixed
+2) Task Options section needs to be completed",Multi_Obj,Multi_Attribs
+91982-a,"1) Pagination needs to be fixed",Document_Formatting,Incorrect
+91982-b,2) Task Options section needs to be completed,Document_Info,Incomplete
+131343,"1) Please accept formatting changes on page 2.
+
+2) Delete Dr. B's comment on page 5 since it was resolved.",Multi_Obj,Multi_Attribs
+131343-a,"1) Please accept formatting changes on page 2.",Document_Formatting,Incorrect
+131343-b,2) Delete Dr. B's comment on page 5 since it was resolved.,Out_of_Doc_Comment,Unnecessary
+181913,"1) Please attach approved validation for CDD-FR-WKS-0768.
+2) In CDD-FR-MPI-0578, please add ""CDD-"" in front of the template# in the footer.",Multi_Obj,Multi_Attribs
+181913-a,"1) Please attach approved validation for CDD-FR-WKS-0768.",Attachment,Missing
+181913-b,"2) In CDD-FR-MPI-0578, please add ""CDD-"" in front of the template# in the footer.",Document_Text_Seg,Incorrect
+128861,"1) please attach change control form to the risk assessment attachment section 
+2) please add the forms to the packet.",Multi_Obj,Multi_Attribs
+128861-a,"1) please attach change control form to the risk assessment attachment section ",Attachment,Incomplete
+128861-b,2) please add the forms to the packet.,Attachment,Incomplete
+163296,"1) Please change workflow to BKY-General_Training.
+2) Please indicate users who will need training, as a new Job Code(s) will be needed.
+3) Training = generic",Multi_Obj,Multi_Attribs
+163296-a,"1) Please change workflow to BKY-General_Training.",Document_Info,Incorrect
+163296-b,"2) Please indicate users who will need training, as a new Job Code(s) will be needed.",Document_Info,Incomplete
+163296-c,3) Training = generic,Document_Info,Incomplete
+191481,"1) Please correct approvers of this document to match those indicated within the document. 
+2) Missing verification Attachment.",Multi_Obj,Multi_Attribs
+191481-a,"1) Please correct approvers of this document to match those indicated within the document. ",Approval,Incorrect
+191481-b,2) Missing verification Attachment.,Attachment,Missing
+173138,"1) please correct footer to SML-SUP-FM-050 on the first tab
+2) fill in missing data x2 for december",Multi_Obj,Multi_Attribs
+173138-a,"1) please correct footer to SML-SUP-FM-050 on the first tab",Document_Formatting,Incorrect
+173138-b,2) fill in missing data x2 for december,Document_Info,Missing
+173134,"1) Please correct originating ECO number to include the SML prefix.
+2) Please correct the change impact section of the document table to ensure all text is viewable within the field.",Multi_Obj,Multi_Attribs
+173134-a,"1) Please correct originating ECO number to include the SML prefix.",Document_Formatting,Incorrect
+173134-b,2) Please correct the change impact section of the document table to ensure all text is viewable within the field.,Document_Formatting,Incorrect
+181916,"1) Please correct the revision in the header to ""Rev. 07""
+2) Please update document numbers to current format ""CDD-FR-"" throughout the document",Multi_Obj,Multi_Attribs
+181916-a,"1) Please correct the revision in the header to ""Rev. 07""",Document_Text_Seg,Incorrect
+181916-b,"2) Please update document numbers to current format ""CDD-FR-"" throughout the document",Document_Formatting,Incorrect
+173135,"1) Please correct the revision level of the PCO to reflect the form options
+2) Please update the main file of G1120P",Multi_Obj,Multi_Attribs
+173135-a,"1) Please correct the revision level of the PCO to reflect the form options",Document_Info,Incorrect
+173135-b,2) Please update the main file of G1120P,Document_Info,Obsolete
+173136,"1) Please correct title of SUP-FM-054 on the DCO to match the infocard
+2) Please correct formatting of SUP-WI-110",Multi_Obj,Multi_Attribs
+173136-a,"1) Please correct title of SUP-FM-054 on the DCO to match the infocard
+",Title,Incorrect
+173136-b,2) Please correct formatting of SUP-WI-110,Document_Formatting,Incorrect
+3793,"1) Please fix the bracket on <191> ID A test on P1
+2) Please add cPh.Eur to Appearance of Solution P2",Multi_Obj,Multi_Attribs
+3793-a,"1) Please fix the bracket on <191> ID A test on P1",Document_Text_Seg,Incorrect
+3793-b,2) Please add cPh.Eur to Appearance of Solution P2,Document_Info,Incomplete
+128856,"1) Please follow naming convention for task name in the MC Procedure
+2) Please attach the change control in risk assessment section.",Multi_Obj,Multi_Attribs
+128856-a,"1) Please follow naming convention for task name in the MC Procedure",Document_Formatting,Incorrect
+128856-b,2) Please attach the change control in risk assessment section.,Attachment,Incomplete
+128857,"1) Please follow task name convention as stated in the MC SOP. 
+2) Please attach change control in risk assessment attachment.",Multi_Obj,Multi_Attribs
+128857-a,"1) Please follow task name convention as stated in the MC SOP. ",Document_Formatting,Incorrect
+128857-b,2) Please attach change control in risk assessment attachment.,Attachment,Incomplete
+128858,"1) Please rename your task (with either create or revise) in the title. Refer to MC operating procedure
+2) Please attach the change controls in risk assessment section",Multi_Obj,Multi_Attribs
+128858-a,"1) Please rename your task (with either create or revise) in the title. Refer to MC operating procedure",Title,Incorrect
+128858-b,2) Please attach the change controls in risk assessment section,Attachment,Incomplete
+128859,"1) Please rename your task following MC Operating SOP Naming conventions. 
+2) Please attach the change control form in the Risk Assessment section.",Multi_Obj,Multi_Attribs
+128859-a,"1) Please rename your task following MC Operating SOP Naming conventions. ",Document_Formatting,Incorrect
+128859-b,2) Please attach the change control form in the Risk Assessment section.,Attachment,Incomplete
